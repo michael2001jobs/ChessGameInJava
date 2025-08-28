@@ -1,6 +1,6 @@
 # ChessGameInJava
 
-#How to run
+# How to run
 
 Clone this repository:
 
@@ -16,7 +16,7 @@ Compile and run the main class:
 
 The game runs directly in the console.
 
-#How to play
+# How to play
 
 The chessboard is displayed as text (ASCII).
 
@@ -26,13 +26,13 @@ When you select a piece, the console highlights the possible moves, using a bool
 
 The game continues until checkmate, when the winner is displayed.
 
-#Technologies
+# Technologies
 
 Java 21
 
 No external libraries (pure Java)
 
-📚 About the project
+# About the project
 
 This was my first project in Java.
 
@@ -46,7 +46,7 @@ Practical application of Object-Oriented Programming
 
 Even though it’s simple, I’m happy with the result, and there’s plenty of room for improvement (such as adding a graphical interface or new features).
 
-✨ Interesting detail
+# Interesting detail
 
 The project uses a boolean matrix to indicate the possible moves of each piece.
 This allows highlighting valid moves directly in the console, improving gameplay even without a graphical interface.
